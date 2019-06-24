@@ -1,1 +1,1 @@
-TEST
+print("My first simple Python script!")
